@@ -15,3 +15,5 @@ DOMAIN-SUFFIX,bntrace.com,PROXY
 DOMAIN-SUFFIX,nftstatic.com,PROXY
 DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net,PROXY
 DOMAIN-SUFFIX,cloudfront.net,PROXY
+DOMAIN-SUFFIX,bybit.biz,PROXY
+DOMAIN-SUFFIX,byd3c3.com,PROXY
