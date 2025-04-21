@@ -1,2 +1,2 @@
-PROCESS-NAME,com.ifast.gb,PROXY
-PROCESS-NAME,com.ocbc.mobile,PROXY
+DOMAIN-SUFFIX,ocbc.com.sg,PROXY
+DOMAIN-SUFFIX,ifastfinancial.com,PROXY
