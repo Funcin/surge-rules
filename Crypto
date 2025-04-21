@@ -1,5 +1,5 @@
-PROCESS-NAME,com.czzhao.binance,PROXY
-PROCESS-NAME,com.okex.OKExAppstoreFull,PROXY
-PROCESS-NAME,com.gateio.app.gateio-app,PROXY
-PROCESS-NAME,com.bybit.app,PROXY
-PROCESS-NAME,com.bitkeep.os,PROXY
+DOMAIN-SUFFIX,binance.com,PROXY
+DOMAIN-SUFFIX,okx.com,PROXY
+DOMAIN-SUFFIX,gate.io,PROXY
+DOMAIN-SUFFIX,bybit.com,PROXY
+DOMAIN-SUFFIX,bitkeep.com,PROXY
